@@ -1,0 +1,3 @@
+[submodule "kiswitch"]
+	path = kiswitch
+	url = https://github.com/kiswitch/kiswitch
