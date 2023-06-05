@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "kiswitch")(type "KiCad")(uri "${KIPRJMOD}/kiswitch")(options "")(descr ""))
   (lib (name "MCU_RaspberryPi_and_Boards")(type "KiCad")(uri "${KIPRJMOD}/KiCad-RP-Pico/RP-Pico Libraries/MCU_RaspberryPi_and_Boards.pretty")(options "")(descr ""))
+  (lib (name "Effigy-Customs")(type "KiCad")(uri "${KIPRJMOD}/Effigy-Customs.pretty")(options "")(descr ""))
 )

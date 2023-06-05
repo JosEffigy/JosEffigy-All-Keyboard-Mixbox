@@ -1051,7 +1051,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 125.73 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 17d243ee-623b-49cc-bfd2-6dca194938e5)
-    (property "Reference" "D1" (at 130.81 23.495 0)
+    (property "Reference" "D?" (at 130.81 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 127 34.925 0)
@@ -1070,7 +1070,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D1") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1130,7 +1130,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 156.21 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2478ac4d-022a-4ed8-b8ff-0d2464c3eec0)
-    (property "Reference" "D3" (at 161.29 23.495 0)
+    (property "Reference" "D?" (at 161.29 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 157.48 34.925 0)
@@ -1149,7 +1149,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D3") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1183,7 +1183,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 308.61 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 2868c2d0-a2e1-4d79-b0e7-3b62da7a7bf7)
-    (property "Reference" "D13" (at 313.69 23.495 0)
+    (property "Reference" "D?" (at 313.69 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 309.88 34.925 0)
@@ -1202,7 +1202,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D13") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1261,7 +1261,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 247.65 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 49426da1-dbb6-41a6-81b5-37254aa57f64)
-    (property "Reference" "D9" (at 252.73 23.495 0)
+    (property "Reference" "D?" (at 252.73 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 248.92 34.925 0)
@@ -1280,7 +1280,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D9") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1340,7 +1340,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 339.09 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 63870dd2-eda2-4701-adfd-2cb4f3d9f726)
-    (property "Reference" "D15" (at 344.17 23.495 0)
+    (property "Reference" "D?" (at 344.17 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 340.36 34.925 0)
@@ -1359,7 +1359,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D15") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1435,7 +1435,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 262.89 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6a7aad20-5349-4628-a986-c35346a80719)
-    (property "Reference" "D10" (at 267.97 23.495 0)
+    (property "Reference" "D?" (at 267.97 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 264.16 34.925 0)
@@ -1454,7 +1454,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D10") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1463,7 +1463,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 293.37 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 6f5a6c41-4f73-4354-bb0a-6636259126cc)
-    (property "Reference" "D12" (at 298.45 23.495 0)
+    (property "Reference" "D?" (at 298.45 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 294.64 34.925 0)
@@ -1482,7 +1482,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D12") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1541,7 +1541,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 217.17 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 7bbd5270-1e99-4463-94ae-c090ed03af21)
-    (property "Reference" "D7" (at 222.25 23.495 0)
+    (property "Reference" "D?" (at 222.25 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 218.44 34.925 0)
@@ -1560,7 +1560,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D7") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1720,7 +1720,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 186.69 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8b9694a1-5ad0-4c84-bea2-71e8254588ad)
-    (property "Reference" "D5" (at 191.77 23.495 0)
+    (property "Reference" "D?" (at 191.77 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 187.96 34.925 0)
@@ -1739,7 +1739,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D5") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1748,7 +1748,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 140.97 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8cadbd20-1ab9-4d54-8c33-3caa37aa5e45)
-    (property "Reference" "D2" (at 146.05 23.495 0)
+    (property "Reference" "D?" (at 146.05 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 142.24 34.925 0)
@@ -1767,7 +1767,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D2") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1776,7 +1776,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 278.13 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 8d30762f-b3d5-4122-9cb4-127086938099)
-    (property "Reference" "D11" (at 283.21 23.495 0)
+    (property "Reference" "D?" (at 283.21 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 279.4 34.925 0)
@@ -1795,7 +1795,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D11") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -1804,7 +1804,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 323.85 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid 91f1f53d-057e-4df8-a311-8f523279d708)
-    (property "Reference" "D14" (at 328.93 23.495 0)
+    (property "Reference" "D?" (at 328.93 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 325.12 34.925 0)
@@ -1823,7 +1823,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D14") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2012,7 +2012,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 354.33 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid a38fa561-5bb5-433a-af7f-4f3ea648838f)
-    (property "Reference" "D16" (at 359.41 23.495 0)
+    (property "Reference" "D?" (at 359.41 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 355.6 34.925 0)
@@ -2031,7 +2031,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D16") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2168,7 +2168,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 232.41 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid c496e8e4-fe76-498d-b772-25eedf7fc794)
-    (property "Reference" "D8" (at 237.49 23.495 0)
+    (property "Reference" "D?" (at 237.49 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 233.68 34.925 0)
@@ -2187,7 +2187,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D8") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2247,7 +2247,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 171.45 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid dc250933-fc53-43b8-897e-b3380548768a)
-    (property "Reference" "D4" (at 176.53 23.495 0)
+    (property "Reference" "D?" (at 176.53 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 172.72 34.925 0)
@@ -2266,7 +2266,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D4") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
@@ -2376,7 +2376,7 @@
   (symbol (lib_id "LED:SK6812MINI") (at 201.93 29.21 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no) (fields_autoplaced)
     (uuid f721093e-63e7-4ef7-9181-a556e6e2d604)
-    (property "Reference" "D6" (at 207.01 23.495 0)
+    (property "Reference" "D?" (at 207.01 23.495 0)
       (effects (font (size 1.27 1.27)) (justify right bottom))
     )
     (property "Value" "SK6812MINI" (at 203.2 34.925 0)
@@ -2395,7 +2395,7 @@
     (instances
       (project "JosEffigy-All-Keyboard-Mixbox"
         (path "/c3306b23-990c-4221-bd76-c941eebf863e"
-          (reference "D6") (unit 1)
+          (reference "D?") (unit 1)
         )
       )
     )
