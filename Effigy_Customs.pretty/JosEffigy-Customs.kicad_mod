@@ -1,6 +1,6 @@
 (footprint "JosEffigy-Customs" (version 20221018) (generator pcbnew)
   (layer "F.Cu")
-  (fp_text reference "REF**" (at 0 -0.5 unlocked) (layer "F.SilkS")
+  (fp_text reference "~" (at 0 -0.5 unlocked) (layer "F.SilkS")
       (effects (font (size 1 1) (thickness 0.1)))
     (tstamp 165a9860-92d2-4c24-b652-3402030d3968)
   )
@@ -8,7 +8,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f9f77bea-5a1f-4086-bf59-6d6814f0c432)
   )
-  (image (at 0 0) (layer "F.SilkS") (scale 0.133128)
+  (image (at 0 0) (layer "F.SilkS") (scale 0.044375)
     (data
       iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4CAYAAADo08FDAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
       AAAK8AAACvABQqw0mAAAIABJREFUeJzs3Xmw7Gdd5/HPkwWyCDcQwpKFgCwJhG0MJIEQSShgEIaw
