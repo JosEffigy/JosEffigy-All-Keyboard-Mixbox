@@ -8,7 +8,7 @@
       (effects (font (size 1 1) (thickness 0.15)))
     (tstamp f9f77bea-5a1f-4086-bf59-6d6814f0c432)
   )
-  (image (at 0 0) (layer "F.SilkS") (scale 0.319011)
+  (image (at 0 0) (layer "F.SilkS") (scale 0.133128)
     (data
       iVBORw0KGgoAAAANSUhEUgAAB4AAAAQ4CAYAAADo08FDAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz
       AAAK8AAACvABQqw0mAAAIABJREFUeJzs3Xmw7Gdd5/HPkwWyCDcQwpKFgCwJhG0MJIEQSShgEIaw

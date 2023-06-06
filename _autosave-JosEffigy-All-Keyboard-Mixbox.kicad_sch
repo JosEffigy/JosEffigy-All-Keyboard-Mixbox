@@ -2498,7 +2498,7 @@
     (property "Value" "MX-NoLED" (at 177.4132 109.22 0)
       (effects (font (size 0.508 0.508)))
     )
-    (property "Footprint" "Button_Switch_Keyboard:SW_Cherry_MX_2.00u_Plate" (at 160.655 113.665 0)
+    (property "Footprint" "PCM_Switch_Keyboard_Hotswap_Kailh:SW_Hotswap_Kailh_MX_Plated_2.00u" (at 160.655 113.665 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (at 160.655 113.665 0)
