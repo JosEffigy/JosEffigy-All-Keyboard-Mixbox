@@ -1,0 +1,7 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"MX3,MX6,MX1,MX16,MX2,MX7,MX5,MX4,MX12,MX10,MX14,MX11,MX13,MX15,MX9";"SW_Hotswap_Kailh_MX_Plated_1.00u";15;"MX-NoLED";;;
+2;"MX8";"SW_Hotswap_Kailh_MX_Plated_2.00u";1;"MX-NoLED";;;
+3;"U1";"RPi_Pico_SMD_TH";1;"Pico";;;
+4;"C13,C11,C9,C4,C14,C5,C12,C3,C7,C6,C2,C10,C1,C15,C8,C16";"CAPC1005X55N";16;"100nf";;;
+5;"D12,D7,D6,D5,D9,D13,D11,D10,D16,D8,D4,D3,D15,D1,D14,D2";"YS-SK6812MINI-E";16;"SK6812MINI";;;
+6;"U2";"SOT-23-5";1;"SN74LV1T34DBV";;;
