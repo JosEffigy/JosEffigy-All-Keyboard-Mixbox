@@ -1,5 +1,5 @@
 Drill report for JosEffigy-All-Keyboard-Mixbox.kicad_pcb
-Created on 07/06/2023 1:28:00 am
+Created on 07/06/2023 11:30:06 am
 
 Copper Layer Stackup:
     =============================================================
@@ -23,6 +23,7 @@ Drill file 'JosEffigy-All-Keyboard-Mixbox-NPTH.drl' contains
     T1  1.500mm  0.0591"  (2 holes)
     T2  1.750mm  0.0689"  (32 holes)
     T3  1.800mm  0.0709"  (2 holes)
-    T4  4.000mm  0.1575"  (16 holes)
+    T4  2.100mm  0.0827"  (4 holes)
+    T5  4.000mm  0.1575"  (16 holes)
 
-    Total unplated holes count 52
+    Total unplated holes count 56
