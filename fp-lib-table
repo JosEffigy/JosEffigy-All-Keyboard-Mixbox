@@ -6,4 +6,5 @@
   (lib (name "kicad-footprints")(type "KiCad")(uri "${KIPRJMOD}/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
   (lib (name "SN74LV1T34DBVR")(type "KiCad")(uri "${KIPRJMOD}/SN74LV1T34DBVR")(options "")(descr ""))
   (lib (name "CAPC1005X55N")(type "KiCad")(uri "${KIPRJMOD}/CAPC1005X55N")(options "")(descr ""))
+  (lib (name "Kailh")(type "KiCad")(uri "${KIPRJMOD}/Kailh.pretty")(options "")(descr ""))
 )
